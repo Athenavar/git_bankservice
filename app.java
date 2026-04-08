@@ -1,4 +1,4 @@
-public class BankService {
+public class app {
 
     // Nested class (can be public or private, doesn't matter for functionality)
     static class BankAccount {
